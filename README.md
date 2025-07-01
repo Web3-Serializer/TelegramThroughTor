@@ -12,10 +12,10 @@
 
 This PowerShell script helps you:
 
-- **Install the Tor Expert Bundle** if it’s not already on your PC — so you can run Tor without fuss.  
+- **Install the Tor Expert Bundle** if it’s not already on your PC, so you can run Tor without fuss.  
 - **Start Tor as a background process**, giving you a local SOCKS5 proxy at `127.0.0.1:9050`.  
-- **Create a Telegram shortcut** on your Desktop with a custom Tor icon — making it easy to launch Telegram configured for anonymous proxying.  
-- **Provide simple, clear instructions** on how to configure Telegram’s proxy settings to use Tor.
+- **Create a Telegram shortcut** on your Desktop with a custom Tor icon, making it easy to launch Telegram.
+- **Provide simple, clear instructions** on how to configure Telegram's proxy settings to use Tor.
 
 ---
 
