@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Web3-Serializer/TelegramThroughTor/raw/main/assets/telegramtor.ico" alt="TelegramThroughTor Icon" />
+</p>
+
+
 # 🛰️ TelegramThroughTor  
 *Because sometimes, your messages deserve a cloak of anonymity.*
 
