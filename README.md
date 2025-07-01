@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Web3-Serializer/TelegramThroughTor/raw/main/assets/telegramtor.ico" alt="TelegramThroughTor Icon" />
+  <img src="https://github.com/Web3-Serializer/TelegramThroughTor/raw/main/assets/telegramtor.ico" alt="TelegramThroughTor Icon" width="64" />
 </p>
 
 
